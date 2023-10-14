@@ -1,0 +1,106 @@
+/* Stile generale */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: #007acc;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  /* Immagine del profilo */
+  header img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  /* Sezione Formazione */
+  #formazione {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  /* Sezione Esperienze Lavorative */
+  #lavoro {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin: 10px 0;
+  }
+  
+  /* Sezione Skills */
+  #skills {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  /* Sezione Contatti */
+  #contatti {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  a {
+    color: #007acc;
+  }
+  
+  /* Sezione Lingue */
+  #lingue {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  /* Sezione Passioni */
+  #passioni {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  /* Stile delle liste */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 10px 0;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    header {
+      padding: 10px;
+    }
+  
+    header h2 {
+      font-size: 20px;
+    }
+  
+    header img {
+      width: 100px;
+      height: 100px;
+    }
+  }
