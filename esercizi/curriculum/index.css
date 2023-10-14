@@ -1,5 +1,5 @@
-/* Stile generale */
-body {
+  /* Stile generale */
+  body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -36,14 +36,16 @@ body {
   
   /* Sezione Formazione */
   #formazione {
-    background-color: #fff;
+    background-color: #a7eaff;
     padding: 20px;
+    color: #1000a3;
   }
   
   /* Sezione Esperienze Lavorative */
   #lavoro {
-    background-color: #fff;
+    background-color: #a7eaff;
     padding: 20px;
+    color: #1000a3;
   }
   
   h3 {
@@ -53,30 +55,31 @@ body {
   
   /* Sezione Skills */
   #skills {
-    background-color: #fff;
+    background-color: #a7eaff;
     padding: 20px;
+    color: #1000a3;
   }
   
   /* Sezione Contatti */
   #contatti {
-    background-color: #fff;
+    background-color: #a7eaff;
     padding: 20px;
+    color: #1000a3;
   }
-  
-  a {
-    color: #007acc;
-  }
+
   
   /* Sezione Lingue */
   #lingue {
-    background-color: #fff;
+    background-color: #a7eaff;
     padding: 20px;
+    color: #1000a3;
   }
   
   /* Sezione Passioni */
   #passioni {
-    background-color: #fff;
+    background-color: #a7eaff;
     padding: 20px;
+    color: #1000a3;
   }
   
   /* Stile delle liste */
@@ -87,6 +90,7 @@ body {
   
   ul li {
     margin: 10px 0;
+    font-size: 16px;
   }
   
   /* Responsive design */
